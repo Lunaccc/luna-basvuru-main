@@ -1,0 +1,10 @@
+{
+    "kurucu":"kurucurolid",
+    "adminrol": "adminrolid",
+    "basvurkategori":"basvurkategoriid",
+    "onayred":"onayredkanalid",
+    "yetkililog":"yetkililogkanalid",
+    "everyoneid":"everyonerolid",
+    "yetkilirolid":"verilecekrolid",
+    "sunucuid":"sunucuid"
+  }
